@@ -1,0 +1,8 @@
+[user]
+	email = joaoiuncks@gmail.com
+	name = Joao Iuncks
+[init]
+	default = branch
+[alias]
+	log1 = log --oneline
+	co = mommit
